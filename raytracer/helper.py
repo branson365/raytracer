@@ -34,7 +34,7 @@ The Number constraint or constant
 
 EPSILON: Final[Number] = 0.00001
 """
-
+The Buffer (tolerance) value
 """
 
 
@@ -55,7 +55,8 @@ def clamp(num: Number, minimum: Number, maximum: Number) -> Number:
 
 def is_almost_equal(lhs: Number, rhs: Number) -> bool:
     """
-    Determines if the two values are equal using a buffer (epsilon value)
+    Determines if the two values are equal using a buffer (epsilon) scalar
+    value.
 
     :param lhs: the left-hand-side scalar value
     :param rhs: the right-hand-side scalar value
