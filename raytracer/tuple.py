@@ -21,8 +21,8 @@ from .helper import Number
 
 class Tuple(ABC):
     """
-    The interface for the three-dimensional tuple-like classes which are Color,
-    Point, & Vector.
+    The interface for the three-dimensional tuple-like classes which are a
+    Color, Point, & Vector.
     """
 
     @abstractmethod

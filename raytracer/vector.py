@@ -19,7 +19,6 @@ from .tuple import Tuple
 
 
 class Vector(Tuple):
-
     __x: Number
     """
     The mathematical reference to the x-coordinate scalar value
@@ -111,11 +110,11 @@ class Vector(Tuple):
         """
         return [self.__x, self.__y, self.__z]
 
-    def from_tuple_list(self, lst: list[Number]) -> Self:
+    def from_tuple_list(self, vector_list: list[Number]) -> Self:
         """
         Converts a list into a Vector
 
-        :param lst: the list
+        :param vector_list: the Vector list
         :return: the new Vector
         """
-        return Vector(lst[0], lst[1], lst[2])
+        return Vector(vector_list[0], vector_list[1], vector_list[2])

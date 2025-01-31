@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9b627b7-acf6-46e0-bc4a-2d0b2aa1718f" name="Changes" comment="Updated helper.py">
-      <change afterPath="$PROJECT_DIR$/raytracer/color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raytracer/point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raytracer/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raytracer/vector.py" afterDir="false" />
+    <list default="true" id="c9b627b7-acf6-46e0-bc4a-2d0b2aa1718f" name="Changes" comment="Updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raytracer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/raytracer/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raytracer/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/raytracer/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raytracer/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/raytracer/point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raytracer/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/raytracer/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raytracer/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/raytracer/vector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1738336949283</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1738345480132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738345480132</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PyCharm Setup" />
     <MESSAGE value="Update main.py" />
     <MESSAGE value="Updated helper.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated helper.py" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>
